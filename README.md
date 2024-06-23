@@ -1,8 +1,8 @@
-![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Template-repository)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/LMA-4to_2C-Sistemas_de_Control-FAMAF)
 
-# Materia - FAMAF - Computacion
+# Sistemas de Control - FAMAF - Aplicada
 
-> Cuatrimestre
+> 2C
 
 ## Correlativas para **cursar**
 
@@ -22,16 +22,16 @@
 
 ## Clonar el repositorio`
 
-> http
+**http**
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/FAMAF-resources/LMA-4to_2C-Sistemas_de_Control-FAMAF.git
 ```
 
-> ssh
+**ssh**
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:FAMAF-resources/LMA-4to_2C-Sistemas_de_Control-FAMAF.git
 ```
 
 ## Aula virtual
@@ -45,6 +45,6 @@ Este es un proyecto con fines de facilitar el acceso al material para estudio.
 Cualquier persona puede realizar su aporte con apunte, resumen, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) o comunicarse con los administradores.
 
 # Contributors
-<a href="https://github.com/FAMAF-resources/Template-repository/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Template-repository"/>
+<a href="https://github.com/FAMAF-resources/LMA-4to_2C-Sistemas_de_Control-FAMAF/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/LMA-4to_2C-Sistemas_de_Control-FAMAF"/>
 </a>
